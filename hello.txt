@@ -1,0 +1,20 @@
+hello  java
+hello hadoop
+hello kafka
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+hello spark
+this is master git
